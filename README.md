@@ -2,7 +2,7 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=80&section=header"/>
 
 
-<img width="460" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=460&lines=WELCOME+TO+MY+GITHUB;I'M+Hà Duy Long;An+Information+Security+Student" alt="Typing SVG">
+<img width="460" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=460&lines=WELCOME+TO+MY+GITHUB;I'M+H%C3%A0+Duy+Long;An+Information+Security+Student" alt="Typing SVG">
 
  ![Vietnam](https://img.shields.io/badge/%F0%9F%87%BB%F0%9F%87%B3-Vietnam-red?style=for-the-badge)
 
@@ -60,74 +60,28 @@
 
 ### 🧩 Programming Languages
 
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=yellow)
-<!-- ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white) -->
-![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
-<!-- ![Assembly](https://img.shields.io/badge/Assembly-4B0082?style=flat-square&logo=assemblyscript&logoColor=white) -->
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-<!-- ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white) -->
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-<!-- ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) -->
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-<!-- ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) -->
-![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
-<!-- ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white) -->
-<!-- ![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white) -->
-<!-- ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white) -->
-<!-- ![Scala](https://img.shields.io/badge/Scala-D92E18?style=flat-square&logo=scala&logoColor=white) -->
-<!-- ![Perl](https://img.shields.io/badge/Perl-39457E?style=flat-square&logo=perl&logoColor=white) -->
-<!-- ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white) -->
-<!-- ![Elixir](https://img.shields.io/badge/Elixir-4B275F?style=flat-square&logo=elixir&logoColor=white) -->
-<!-- ![Haskell](https://img.shields.io/badge/Haskell-5E5086?style=flat-square&logo=haskell&logoColor=white) -->
-<!-- ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white) -->
-<!-- ![Objective-C](https://img.shields.io/badge/Objective--C-438EFF?style=flat-square&logo=apple&logoColor=white) -->
-<!-- ![Julia](https://img.shields.io/badge/Julia-9558B2?style=flat-square&logo=julia&logoColor=white) -->
-<!-- ![Groovy](https://img.shields.io/badge/Groovy-4298B8?style=flat-square&logo=groovy&logoColor=white) -->
-<!-- ![COBOL](https://img.shields.io/badge/COBOL-FF8000?style=flat-square) -->
-<!-- ![Fortran](https://img.shields.io/badge/Fortran-4D41B1?style=flat-square) -->
-<!-- ![Ada](https://img.shields.io/badge/Ada-02F88C?style=flat-square) -->
-<!-- ![F#](https://img.shields.io/badge/F%23-378BBA?style=flat-square&logo=fsharp&logoColor=white) -->
-<!-- ![Shell](https://img.shields.io/badge/Shell-89E051?style=flat-square&logo=gnu&logoColor=black) -->
-<!-- ![Elm](https://img.shields.io/badge/Elm-60B5CC?style=flat-square&logo=elm&logoColor=white) -->
-<!-- ![Crystal](https://img.shields.io/badge/Crystal-000000?style=flat-square) -->
-<!-- ![Nim](https://img.shields.io/badge/Nim-FFC200?style=flat-square) -->
-<!-- ![ReasonML](https://img.shields.io/badge/ReasonML-FF5847?style=flat-square) -->
-<!-- ![OCaml](https://img.shields.io/badge/OCaml-3be133?style=flat-square) -->
-<!-- ![Smalltalk](https://img.shields.io/badge/Smalltalk-596706?style=flat-square) -->
-<!-- ![Erlang](https://img.shields.io/badge/Erlang-4B275F?style=flat-square) -->
-<!-- ![V](https://img.shields.io/badge/V-42A5F5?style=flat-square) -->
-<!-- ![Groovy](https://img.shields.io/badge/Groovy-4298B8?style=flat-square&logo=groovy&logoColor=white) -->
-<!-- ![Tcl](https://img.shields.io/badge/Tcl-1E40AF?style=flat-square) -->
-<!-- ![D](https://img.shields.io/badge/D-BA595E?style=flat-square&logo=d&logoColor=white) -->
-<!-- ![Hack](https://img.shields.io/badge/Hack-878787?style=flat-square&logo=hack&logoColor=white) -->
-<!-- ![PL/I](https://img.shields.io/badge/PL/I-0B3B17?style=flat-square) -->
-<!-- ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logo/Color=white) -->
-<!-- ![VB.NET](https://img.shields.io/badge/VB.NET-663399?style=flat-square&logo=visual-basic&logoColor=white) -->
-<!-- ![Ada](https://img.shields.io/badge/Ada-02F88C?style=flat-square) -->
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=sql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-<!-- ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white) -->
-<!-- ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) -->
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-<!-- ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white) -->
-<!-- ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) -->
-<!-- ![Cassandra](https://img.shields.io/badge/Cassandra-1287B1?style=flat-square&logo=apachecassandra&logoColor=white) -->
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=yellow"/>
+  <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=sql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white"/>
+</p>
+
 
 ---
 
 ### 🛠️ Reverse Engineering Tools
 
-![IDA Pro](https://img.shields.io/badge/IDA_Pro-37474F?style=flat-square&logo=hexo&logoColor=white)
-![Ghidra](https://img.shields.io/badge/Ghidra-FB4F14?style=flat-square&logo=ghidra&logoColor=white)
-![x64dbg](https://img.shields.io/badge/x64dbg-1B1F23?style=flat-square&logo=windows&logoColor=white)
-![WinDbg](https://img.shields.io/badge/WinDbg-0078D6?style=flat-square&logo=microsoft&logoColor=white)
-![Detect It Easy (DIE)](https://img.shields.io/badge/DIE-800080?style=flat-square&logo=search&logoColor=white)
-![VMWare](https://img.shields.io/badge/VMWare-607078?style=flat-square&logo=vmware&logoColor=white)
-![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=flat-square&logo=virtualbox&logoColor=white)
+![IDA Pro](https://img.shields.io/badge/IDA_Pro-37474F?style=flat-square&logo=hexo&logoColor=white) ![Ghidra](https://img.shields.io/badge/Ghidra-FB4F14?style=flat-square&logo=ghidra&logoColor=white) ![x64dbg](https://img.shields.io/badge/x64dbg-1B1F23?style=flat-square&logo=windows&logoColor=white) ![WinDbg](https://img.shields.io/badge/WinDbg-0078D6?style=flat-square&logo=microsoft&logoColor=white) ![Detect It Easy (DIE)](https://img.shields.io/badge/DIE-800080?style=flat-square&logo=search&logoColor=white) ![VMWare](https://img.shields.io/badge/VMWare-607078?style=flat-square&logo=vmware&logoColor=white) ![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=flat-square&logo=virtualbox&logoColor=white)
 
 ---
 
@@ -265,18 +219,7 @@
 
 ### 🩺 Digital Forensics & Incident Response Tools
 
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
-![NetworkMiner](https://img.shields.io/badge/NetworkMiner-2E8B57?style=flat-square&logo=gnubash&logoColor=white)
-![Audacity](https://img.shields.io/badge/Audacity-0000CD?style=flat-square&logo=audacity&logoColor=white)
-![WinHex](https://img.shields.io/badge/WinHex-4682B4?style=flat-square&logo=windows&logoColor=white)
-![HxD](https://img.shields.io/badge/HxD-800000?style=flat-square&logo=codeforces&logoColor=white)
-![FTK Imager](https://img.shields.io/badge/FTK_Imager-000000?style=flat-square&logo=datadog&logoColor=white)
-![Autopsy](https://img.shields.io/badge/Autopsy-191970?style=flat-square&logo=skyliner&logoColor=white)
-![ESEDatabaseView](https://img.shields.io/badge/ESEDatabaseView-778899?style=flat-square&logo=microsoftaccess&logoColor=white)
-![WinSearchDBAnalyzer](https://img.shields.io/badge/WinSearchDBAnalyzer-6A5ACD?style=flat-square&logo=windows&logoColor=white)
-![Registry Explorer](https://img.shields.io/badge/Registry_Explorer-708090?style=flat-square&logo=microsoft&logoColor=white)
-![R-Studio](https://img.shields.io/badge/R--Studio-4682B4?style=flat-square&logo=rstudio&logoColor=white)
-![RX-SSTV](https://img.shields.io/badge/RX--SSTV-B22222?style=flat-square&logo=radio&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white) ![NetworkMiner](https://img.shields.io/badge/NetworkMiner-2E8B57?style=flat-square&logo=gnubash&logoColor=white) ![Audacity](https://img.shields.io/badge/Audacity-0000CD?style=flat-square&logo=audacity&logoColor=white) ![WinHex](https://img.shields.io/badge/WinHex-4682B4?style=flat-square&logo=windows&logoColor=white) ![HxD](https://img.shields.io/badge/HxD-800000?style=flat-square&logo=codeforces&logoColor=white) ![FTK Imager](https://img.shields.io/badge/FTK_Imager-000000?style=flat-square&logo=datadog&logoColor=white) ![Autopsy](https://img.shields.io/badge/Autopsy-191970?style=flat-square&logo=skyliner&logoColor=white) ![ESEDatabaseView](https://img.shields.io/badge/ESEDatabaseView-778899?style=flat-square&logo=microsoftaccess&logoColor=white) ![WinSearchDBAnalyzer](https://img.shields.io/badge/WinSearchDBAnalyzer-6A5ACD?style=flat-square&logo=windows&logoColor=white) ![Registry Explorer](https://img.shields.io/badge/Registry_Explorer-708090?style=flat-square&logo=microsoft&logoColor=white) ![R-Studio](https://img.shields.io/badge/R--Studio-4682B4?style=flat-square&logo=rstudio&logoColor=white) ![RX-SSTV](https://img.shields.io/badge/RX--SSTV-B22222?style=flat-square&logo=radio&logoColor=white)
 
 
 </div>
