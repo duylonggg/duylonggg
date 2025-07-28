@@ -45,7 +45,7 @@
 
 <div align="center">
   
-##  Skills
+###  Skills
 <!-- <img src="https://img.shields.io/badge/OSINT-Recon-8A2BE2?style=for-the-badge&logo=protonmail&logoColor=white" alt="OSINT Recon"/> -->
 <!-- <img src="https://img.shields.io/badge/Web-AppSec-8A2BE2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Web AppSec"/> -->
 <img src="https://img.shields.io/badge/Reverse-Engineering-8A2BE2?style=for-the-badge&logo=gnubash&logoColor=white" alt="Reverse Engineering"/>
@@ -287,7 +287,7 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=duylonggg&theme=tokyonight&hide_border=true&background=0D1117&stroke=8A2BE2&ring=8A2BE2&fire=8A2BE2&currStreakLabel=8A2BE2" width="48%">
 
   
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=duylonggg&theme=tokyonight&layout=pie"/> 
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=duylonggg&theme=tokyonight"/>
 
 
 </p>
